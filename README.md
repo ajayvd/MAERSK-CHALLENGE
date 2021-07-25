@@ -7,7 +7,7 @@
 
 - Performed data cleaning 
 
-- Used the model XGBOOST and randomforest model 
+- Used the model XGBOOST and random forest model 
 
 - Performed Hyperparameter tuning and choose the best estimator
 
